@@ -16,7 +16,7 @@
 
 ![lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=coponieve&layout=compact&theme=radical)
 
-![ubicaion](https://img.shields.io/badge/Location-Madrid-blue?style=for-the-badge&logo=appveyor)
+![ubicaion](https://img.shields.io/badge/Location-Madrid-red?style=for-the-badge&logo=appveyor)
 
 
 ##contactame
