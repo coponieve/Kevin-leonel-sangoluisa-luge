@@ -1,4 +1,4 @@
-#bienvenido soy kevin leonel sangoluisa luge
+<h1>Bienvenido soy kevin leonel sangoluisa luge</h1>
 
 ##sobre mi
 - Soy un estudiante de grado superior de Desarrollo de Aplicaciones Web en el instituto IES Juan De La Cierva
