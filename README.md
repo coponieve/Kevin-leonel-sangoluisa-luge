@@ -1,10 +1,23 @@
 <h1>Bienvenido soy kevin leonel sangoluisa luge</h1>
 
-##sobre mi
+##sobre mi🪗
 - Soy un estudiante de grado superior de Desarrollo de Aplicaciones Web en el instituto IES Juan De La Cierva
 
-##Tecnologias
+##Tecnologias🖥️
 - ![HTML](https://camo.githubusercontent.com/d6efe8554e9d9e98ef68344b794a8aa5632e18c44e4b57cea490ac2ce0ba9471/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 - ![CSS](https://camo.githubusercontent.com/bfc16d4ca4ce30d08e55c0db6d978acda194c986b248807ce7463c6f5f46e6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 - ![JS](https://camo.githubusercontent.com/277d160259bb1a95090c8eb93da0c97eb034b13fea899d17f4d1dbee22c766e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 
+##Mis estadisticas de github🔥
+
+![stats](https://github-readme-stats.vercel.app/api?username=coponieve&show_icons=true&theme=radical)
+
+##lenguajes mas usados🥇
+
+![lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=coponieve&layout=compact&theme=radical)
+
+![ubicaion](https://img.shields.io/badge/Location-Madrid-blue?style=for-the-badge&logo=appveyor)
+
+
+##contactame
+- gmail:kev69806@gmail.com
